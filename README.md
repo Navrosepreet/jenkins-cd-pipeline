@@ -3,3 +3,4 @@
 auto test 1
 auto test 2
 #auto test 3
+auto test 4
